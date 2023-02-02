@@ -6,6 +6,7 @@
 package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
+ * hi
  * A class to model Student Objects
  * each student has: a name (first an last name)
  * each student can: say their name (getName)
@@ -15,6 +16,8 @@ package ca.sheridancollege.week1.softwarefundamentals;
 public class Student 
 {
     private String name;
+
+   
 
     /**
      * @return the name
