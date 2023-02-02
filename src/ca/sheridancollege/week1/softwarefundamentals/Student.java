@@ -7,6 +7,8 @@ package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
  * hi
+ *@author Imen february1,2023
+ 
  * A class to model Student Objects
  * each student has: a name (first an last name)
  * each student can: say their name (getName)
